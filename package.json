@@ -1,0 +1,14 @@
+{
+  "name": "world_sim",
+  "version": "1.0.0",
+  "description": "world simulation example for OOP lessons",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grisha Harutyunyan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

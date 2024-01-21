@@ -1,0 +1,12 @@
+[
+    {"type": "Plant", "name": "Tree"},
+    {"type": "Animal", "name": "Lion"},
+    {"type": "Plant", "name": "Sunflower"},
+    {"type": "Animal", "name": "Elephant"},
+    {"type": "Plant", "name": "Rose"},
+    {"type": "Animal", "name": "Dog"},
+    {"type": "Animal", "name": "Cat"},
+    {"type": "Plant", "name": "Orchid"},
+    {"type": "Plant", "name": "Cactus"}
+  ]
+  
